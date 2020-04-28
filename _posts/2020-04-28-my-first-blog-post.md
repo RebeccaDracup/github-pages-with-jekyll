@@ -1,6 +1,6 @@
 ---
 title: "MY-FIRST-BLOG"
-date: 20200428
+date: 2020-04-28
 ---
 
 Hello world
